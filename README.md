@@ -23,19 +23,22 @@
 ### OS
 
 - Arch Linux ![Arch](/badges/os/arch.svg) 
+- Arco Linux ![Arco Linux](/badges/os/arco.svg)
 - Artix Linux ![Artix](/badges/os/artix.svg) 
 - Debian ![Debian](/badges/os/debian.svg) 
 - Fedora ![Fedora](/badges/os/fedora.svg) 
+- Kali Linux ![Kali Linux](/badges/os/kali.svg) 
+- Linux Mint ![Mint Linux](/badges/os/mint.svg)
 - Manjaro ![Manjaro](/badges/os/manjaro.svg) 
 - NixOS ![NixOS](/badges/os/nixos.svg) 
 - Ubuntu ![Ubuntu](/badges/os/ubuntu.svg) 
 - Void Linux ![Void Linux](/badges/os/void.svg)
-- Kali Linux ![Kali Linux](/badges/os/kali.svg) 
-- Linux Mint ![Mint Linux](/badges/os/mint.svg)
+- Windows 11 ![Windows 11](/badges/os/windows-11.svg)
 
 ### Editors
-- VS Code ![VS Code](/badges/editor/code.svg)
 - Neovim ![Neovim](/badges/editor/neovim.svg)
+- VS Code ![VS Code](/badges/editor/code.svg)
+- VS Codium ![VS Codium](/badges/editor/codium.svg)
 
 ### StatusBar
 - Polybar  ![VS Code](/badges/statusbar/polybar.svg)
