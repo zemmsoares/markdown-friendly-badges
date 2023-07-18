@@ -1,0 +1,1 @@
+# markdown-friendly-badges
