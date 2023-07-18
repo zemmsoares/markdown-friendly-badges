@@ -13,6 +13,7 @@
     - [OS](#os)
     - [Editors](#editors)
     - [StatusBar](#statusbar)
+    - [Browsers](#browsers)
 - [Badge Generator Tool](#badge-generator-tool)
 - [Contribute](#contribute)
 - [License](#license)
@@ -26,11 +27,15 @@
 - Arco Linux ![Arco Linux](/badges/os/arco.svg)
 - Artix Linux ![Artix](/badges/os/artix.svg) 
 - Debian ![Debian](/badges/os/debian.svg) 
+- EndeavourOS ![EndeavourOS](/badges/os/endeavour.svg) 
 - Fedora ![Fedora](/badges/os/fedora.svg) 
 - Kali Linux ![Kali Linux](/badges/os/kali.svg) 
 - Linux Mint ![Mint Linux](/badges/os/mint.svg)
+- macOS ![macOS](/badges/os/mac.svg) 
 - Manjaro ![Manjaro](/badges/os/manjaro.svg) 
 - NixOS ![NixOS](/badges/os/nixos.svg) 
+- OpenSUSE ![OpenSUSE](/badges/os/opensuse.svg) 
+- pop!OS ![pop!OS](/badges/os/pop.svg) 
 - Ubuntu ![Ubuntu](/badges/os/ubuntu.svg) 
 - Void Linux ![Void Linux](/badges/os/void.svg)
 - Windows 11 ![Windows 11](/badges/os/windows-11.svg)
@@ -42,6 +47,9 @@
 
 ### StatusBar
 - Polybar  ![VS Code](/badges/statusbar/polybar.svg)
+
+### Browsers
+- Firefox  ![Firefox](/badges/browsers/firefox.svg)
 
 
 # Badge Generator Tool
