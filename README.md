@@ -2,6 +2,11 @@
 
 ## OS 
 
-- zemmsoares ![Arch](/badges/os/arch.svg) ![Artix](/badges/os/artix.svg) ![Debian](/badges/os/debian.svg) 
-- zemmsoares ![fedora](/badges/os/fedora.svg) ![Manjaro](/badges/os/manjaro.svg) ![ubuntu](/badges/os/ubuntu.svg) ![NixOS](/badges/os/nixos.svg) 
-- zemmsoares ![Arch](/badges/os/void.svg)
+- Arch Linux ![Arch](/badges/os/arch.svg) 
+- Artix Linux ![Artix](/badges/os/artix.svg) 
+- Debian ![Debian](/badges/os/debian.svg) 
+- Fedora ![Fedora](/badges/os/fedora.svg) 
+- Manjaro ![Manjaro](/badges/os/manjaro.svg) 
+- NixOS ![NixOS](/badges/os/nixos.svg) 
+- Ubuntu ![Ubuntu](/badges/os/ubuntu.svg) 
+- Void Linux ![Void Linux](/badges/os/void.svg)
